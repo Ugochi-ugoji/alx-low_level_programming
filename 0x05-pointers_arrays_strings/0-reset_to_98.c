@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 /**
- *
  * take pointer to an int value
  * reset value to 98
  * Return: Always 0
